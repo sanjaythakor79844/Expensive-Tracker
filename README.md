@@ -82,5 +82,9 @@ Expense-Tracker/
 |-- expenses.csv  # Data storage file
 |-- README.md  # Project documentation
 
+Output:
+![image](https://github.com/user-attachments/assets/c9b29d92-f3ad-48f5-942b-47a18e35ae08)
+
+
 
 
